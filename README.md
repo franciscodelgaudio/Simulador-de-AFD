@@ -53,7 +53,7 @@ Observe a saída do programa para verificar se as cadeias são aceitas ou rejeit
 ## Exemplo de Arquivo de Entrada
 Um exemplo de arquivo de entrada pode ser:
 
-```
+```c
 alfabeto={a,b,c,0,1,2}
 estados={q0,q1,q2,q3,q4,q5}
 finais={q2,q5}
@@ -67,7 +67,7 @@ finais={q2,q5}
 (q4,0)= q2
 (q4,1)= q5
 (q5,2)= q4
-````
+```
 
 ## Autor
 Este código foi escrito por Francisco Castro Del’Gaudio Junior
